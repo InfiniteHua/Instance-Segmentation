@@ -1,0 +1,2 @@
+After adjusting the mask threshold from 0.5 to 0.2, which is sigmoid to 0-1:
+overall accuracy: 153/175 = 0.8742857142857143

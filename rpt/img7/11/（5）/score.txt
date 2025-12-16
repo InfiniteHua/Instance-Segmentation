@@ -1,0 +1,468 @@
+all_upper_scores:
+  Stem 0:
+    -> candidate 12, score=0.880, center=[986.6186 993.9124]
+  Stem 1:
+  Stem 2:
+    -> candidate 16, score=2.516, center=[722.1058 962.9823]
+    -> candidate 21, score=158.047, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=167.401, center=[ 564.17365 1089.2655 ]
+    -> candidate 32, score=4.938, center=[701.98737 650.0597 ]
+    -> candidate 34, score=2.021, center=[700.759   472.59277]
+    -> candidate 38, score=142.288, center=[578.819  812.1422]
+    -> candidate 40, score=209.811, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=153.878, center=[582.1782 992.8713]
+    -> candidate 43, score=1.755, center=[702.1556  534.18445]
+  Stem 3:
+  Stem 4:
+    -> candidate 1, score=25.344, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=16.598, center=[ 318.47504 1043.3105 ]
+    -> candidate 5, score=72.217, center=[515.3146 651.8893]
+    -> candidate 9, score=36.852, center=[312.0896 821.6884]
+    -> candidate 11, score=6.690, center=[413.12228 595.47687]
+    -> candidate 15, score=132.743, center=[524.1119  773.31274]
+    -> candidate 18, score=22.056, center=[499.58826 902.7875 ]
+    -> candidate 42, score=5.677, center=[496.83737 426.50406]
+  Stem 5:
+    -> candidate 15, score=6.151, center=[524.1119  773.31274]
+    -> candidate 21, score=15.200, center=[ 548.3544 1107.8427]
+    -> candidate 22, score=8.188, center=[532.56964 850.269  ]
+    -> candidate 40, score=42.960, center=[ 538.49524 1196.8715 ]
+  Stem 6:
+    -> candidate 15, score=59.254, center=[524.1119  773.31274]
+    -> candidate 16, score=65.068, center=[722.1058 962.9823]
+    -> candidate 18, score=39.896, center=[499.58826 902.7875 ]
+    -> candidate 19, score=1.528, center=[569.4641 662.5359]
+    -> candidate 21, score=59.815, center=[ 548.3544 1107.8427]
+    -> candidate 22, score=61.843, center=[532.56964 850.269  ]
+    -> candidate 26, score=51.318, center=[ 564.17365 1089.2655 ]
+    -> candidate 38, score=9.334, center=[578.819  812.1422]
+    -> candidate 40, score=98.756, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=30.568, center=[582.1782 992.8713]
+  Stem 7:
+    -> candidate 13, score=9.225, center=[724.70074 678.55414]
+    -> candidate 14, score=53.658, center=[ 377.27084 1042.3743 ]
+    -> candidate 25, score=20.225, center=[587.8923  823.72095]
+    -> candidate 35, score=50.562, center=[481.7043 933.6989]
+  Stem 8:
+    -> candidate 1, score=45.977, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=10.237, center=[ 318.47504 1043.3105 ]
+    -> candidate 28, score=9.296, center=[340.1182  990.16516]
+    -> candidate 30, score=3.617, center=[321.7326 712.5238]
+    -> candidate 44, score=9.787, center=[321.8209  766.47015]
+  Stem 9:
+    -> candidate 1, score=4.235, center=[ 239.86093 1014.1226 ]
+  Stem 10:
+    -> candidate 21, score=8.628, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=15.070, center=[ 564.17365 1089.2655 ]
+    -> candidate 38, score=1.470, center=[578.819  812.1422]
+    -> candidate 40, score=4.335, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=23.910, center=[582.1782 992.8713]
+  Stem 11:
+    -> candidate 1, score=16.861, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=61.413, center=[ 318.47504 1043.3105 ]
+    -> candidate 9, score=1.504, center=[312.0896 821.6884]
+    -> candidate 28, score=71.170, center=[340.1182  990.16516]
+  Stem 12:
+  Stem 13:
+    -> candidate 14, score=9.341, center=[ 377.27084 1042.3743 ]
+    -> candidate 25, score=1.068, center=[587.8923  823.72095]
+    -> candidate 35, score=8.788, center=[481.7043 933.6989]
+  Stem 14:
+  Stem 15:
+    -> candidate 21, score=2.052, center=[ 548.3544 1107.8427]
+    -> candidate 22, score=1.021, center=[532.56964 850.269  ]
+    -> candidate 26, score=0.169, center=[ 564.17365 1089.2655 ]
+    -> candidate 40, score=20.632, center=[ 538.49524 1196.8715 ]
+  Stem 16:
+  Stem 17:
+    -> candidate 0, score=17.111, center=[918.2874  764.97723]
+    -> candidate 12, score=33.629, center=[986.6186 993.9124]
+    -> candidate 20, score=5.528, center=[798.4313  416.47812]
+  Stem 18:
+  Stem 19:
+    -> candidate 21, score=41.515, center=[ 548.3544 1107.8427]
+    -> candidate 22, score=49.766, center=[532.56964 850.269  ]
+    -> candidate 26, score=26.569, center=[ 564.17365 1089.2655 ]
+    -> candidate 38, score=0.111, center=[578.819  812.1422]
+    -> candidate 40, score=65.830, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=9.378, center=[582.1782 992.8713]
+  Stem 20:
+    -> candidate 0, score=9.749, center=[918.2874  764.97723]
+    -> candidate 12, score=25.759, center=[986.6186 993.9124]
+  Stem 21:
+  Stem 22:
+    -> candidate 21, score=4.090, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=3.522, center=[ 564.17365 1089.2655 ]
+    -> candidate 40, score=24.451, center=[ 538.49524 1196.8715 ]
+  Stem 23:
+    -> candidate 3, score=2.479, center=[ 318.47504 1043.3105 ]
+    -> candidate 8, score=0.440, center=[315.06558 591.18945]
+    -> candidate 28, score=29.192, center=[340.1182  990.16516]
+    -> candidate 30, score=12.956, center=[321.7326 712.5238]
+    -> candidate 44, score=13.631, center=[321.8209  766.47015]
+  Stem 24:
+    -> candidate 1, score=32.368, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=7.380, center=[ 318.47504 1043.3105 ]
+    -> candidate 9, score=19.163, center=[312.0896 821.6884]
+    -> candidate 28, score=8.689, center=[340.1182  990.16516]
+  Stem 25:
+    -> candidate 14, score=2.805, center=[ 377.27084 1042.3743 ]
+    -> candidate 35, score=3.544, center=[481.7043 933.6989]
+  Stem 26:
+    -> candidate 40, score=4.970, center=[ 538.49524 1196.8715 ]
+  Stem 27:
+    -> candidate 7, score=0.978, center=[843.9271 553.4623]
+    -> candidate 13, score=9.362, center=[724.70074 678.55414]
+    -> candidate 14, score=33.246, center=[ 377.27084 1042.3743 ]
+    -> candidate 25, score=20.123, center=[587.8923  823.72095]
+    -> candidate 35, score=35.846, center=[481.7043 933.6989]
+  Stem 28:
+  Stem 29:
+    -> candidate 3, score=6.528, center=[ 318.47504 1043.3105 ]
+    -> candidate 8, score=0.093, center=[315.06558 591.18945]
+    -> candidate 18, score=62.511, center=[499.58826 902.7875 ]
+    -> candidate 21, score=191.793, center=[ 548.3544 1107.8427]
+    -> candidate 23, score=0.264, center=[311.36908 466.8788 ]
+    -> candidate 28, score=26.038, center=[340.1182  990.16516]
+    -> candidate 30, score=10.992, center=[321.7326 712.5238]
+    -> candidate 44, score=11.478, center=[321.8209  766.47015]
+  Stem 30:
+    -> candidate 1, score=22.501, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=8.093, center=[ 318.47504 1043.3105 ]
+    -> candidate 28, score=19.796, center=[340.1182  990.16516]
+    -> candidate 44, score=0.970, center=[321.8209  766.47015]
+  Stem 31:
+    -> candidate 0, score=153.236, center=[918.2874  764.97723]
+    -> candidate 2, score=0.983, center=[689.55963 374.2523 ]
+    -> candidate 12, score=171.785, center=[986.6186 993.9124]
+    -> candidate 16, score=27.211, center=[722.1058 962.9823]
+    -> candidate 21, score=186.958, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=205.354, center=[ 564.17365 1089.2655 ]
+    -> candidate 32, score=18.122, center=[701.98737 650.0597 ]
+    -> candidate 34, score=0.745, center=[700.759   472.59277]
+    -> candidate 38, score=166.014, center=[578.819  812.1422]
+    -> candidate 40, score=255.347, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=189.084, center=[582.1782 992.8713]
+    -> candidate 43, score=5.584, center=[702.1556  534.18445]
+  Stem 32:
+    -> candidate 16, score=0.600, center=[722.1058 962.9823]
+    -> candidate 26, score=125.545, center=[ 564.17365 1089.2655 ]
+    -> candidate 40, score=156.771, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=116.572, center=[582.1782 992.8713]
+  Stem 33:
+    -> candidate 3, score=153.259, center=[ 318.47504 1043.3105 ]
+    -> candidate 5, score=15.453, center=[515.3146 651.8893]
+    -> candidate 6, score=12.236, center=[554.61847 546.1671 ]
+    -> candidate 11, score=33.518, center=[413.12228 595.47687]
+    -> candidate 15, score=10.555, center=[524.1119  773.31274]
+    -> candidate 16, score=98.503, center=[722.1058 962.9823]
+    -> candidate 18, score=2.726, center=[499.58826 902.7875 ]
+    -> candidate 19, score=29.751, center=[569.4641 662.5359]
+    -> candidate 21, score=4.446, center=[ 548.3544 1107.8427]
+    -> candidate 22, score=3.041, center=[532.56964 850.269  ]
+    -> candidate 26, score=17.142, center=[ 564.17365 1089.2655 ]
+    -> candidate 28, score=177.891, center=[340.1182  990.16516]
+    -> candidate 38, score=41.005, center=[578.819  812.1422]
+    -> candidate 40, score=1.399, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=42.010, center=[582.1782 992.8713]
+  Stem 34:
+    -> candidate 16, score=4.121, center=[722.1058 962.9823]
+    -> candidate 21, score=135.268, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=140.829, center=[ 564.17365 1089.2655 ]
+    -> candidate 32, score=1.651, center=[701.98737 650.0597 ]
+    -> candidate 40, score=176.192, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=130.171, center=[582.1782 992.8713]
+    -> candidate 43, score=0.580, center=[702.1556  534.18445]
+  Stem 35:
+    -> candidate 14, score=8.660, center=[ 377.27084 1042.3743 ]
+  Stem 36:
+    -> candidate 1, score=110.720, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=74.501, center=[ 318.47504 1043.3105 ]
+    -> candidate 9, score=84.496, center=[312.0896 821.6884]
+    -> candidate 15, score=96.098, center=[524.1119  773.31274]
+    -> candidate 18, score=18.099, center=[499.58826 902.7875 ]
+    -> candidate 21, score=84.500, center=[ 548.3544 1107.8427]
+    -> candidate 22, score=100.930, center=[532.56964 850.269  ]
+    -> candidate 24, score=24.681, center=[379.9149  617.14734]
+    -> candidate 28, score=85.766, center=[340.1182  990.16516]
+    -> candidate 30, score=99.531, center=[321.7326 712.5238]
+    -> candidate 37, score=18.572, center=[392.66074 519.8453 ]
+    -> candidate 40, score=86.057, center=[ 538.49524 1196.8715 ]
+    -> candidate 44, score=102.978, center=[321.8209  766.47015]
+  Stem 37:
+    -> candidate 1, score=82.899, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=45.981, center=[ 318.47504 1043.3105 ]
+    -> candidate 9, score=56.284, center=[312.0896 821.6884]
+    -> candidate 18, score=28.806, center=[499.58826 902.7875 ]
+    -> candidate 21, score=119.320, center=[ 548.3544 1107.8427]
+    -> candidate 24, score=4.076, center=[379.9149  617.14734]
+    -> candidate 28, score=51.179, center=[340.1182  990.16516]
+    -> candidate 44, score=73.419, center=[321.8209  766.47015]
+  Stem 38:
+    -> candidate 21, score=14.369, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=2.248, center=[ 564.17365 1089.2655 ]
+    -> candidate 40, score=28.919, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=6.006, center=[582.1782 992.8713]
+  Stem 39:
+    -> candidate 5, score=1.461, center=[515.3146 651.8893]
+    -> candidate 15, score=35.754, center=[524.1119  773.31274]
+    -> candidate 16, score=23.620, center=[722.1058 962.9823]
+    -> candidate 18, score=25.249, center=[499.58826 902.7875 ]
+    -> candidate 21, score=90.616, center=[ 548.3544 1107.8427]
+    -> candidate 22, score=56.934, center=[532.56964 850.269  ]
+    -> candidate 36, score=19.271, center=[406.76968 409.97574]
+  Stem 40:
+  Stem 41:
+    -> candidate 21, score=8.880, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=0.450, center=[ 564.17365 1089.2655 ]
+    -> candidate 40, score=2.857, center=[ 538.49524 1196.8715 ]
+  Stem 42:
+    -> candidate 1, score=17.462, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=62.074, center=[ 318.47504 1043.3105 ]
+    -> candidate 9, score=1.709, center=[312.0896 821.6884]
+    -> candidate 11, score=0.069, center=[413.12228 595.47687]
+  Stem 43:
+    -> candidate 16, score=0.089, center=[722.1058 962.9823]
+    -> candidate 21, score=122.055, center=[ 548.3544 1107.8427]
+    -> candidate 26, score=128.250, center=[ 564.17365 1089.2655 ]
+    -> candidate 32, score=0.135, center=[701.98737 650.0597 ]
+    -> candidate 40, score=160.330, center=[ 538.49524 1196.8715 ]
+    -> candidate 41, score=118.911, center=[582.1782 992.8713]
+  Stem 44:
+    -> candidate 1, score=27.105, center=[ 239.86093 1014.1226 ]
+    -> candidate 3, score=10.384, center=[ 318.47504 1043.3105 ]
+    -> candidate 28, score=13.977, center=[340.1182  990.16516]
+
+all_lower_scores:
+  Stem 0:
+    -> candidate 17, score=19.841, center=[751.5    281.4694]
+    -> candidate 20, score=9.273, center=[798.4313  416.47812]
+    -> candidate 31, score=88.138, center=[677.7203 279.8046]
+  Stem 1:
+    -> candidate 4, score=0.081, center=[529.9388  357.00876]
+    -> candidate 9, score=6.561, center=[312.0896 821.6884]
+    -> candidate 11, score=2.207, center=[413.12228 595.47687]
+    -> candidate 23, score=132.441, center=[311.36908 466.8788 ]
+    -> candidate 24, score=17.300, center=[379.9149  617.14734]
+    -> candidate 29, score=176.723, center=[311.7357  334.51456]
+    -> candidate 30, score=41.029, center=[321.7326 712.5238]
+    -> candidate 42, score=0.668, center=[496.83737 426.50406]
+  Stem 2:
+    -> candidate 31, score=3.420, center=[677.7203 279.8046]
+  Stem 3:
+    -> candidate 4, score=90.510, center=[529.9388  357.00876]
+    -> candidate 8, score=66.130, center=[315.06558 591.18945]
+    -> candidate 11, score=15.032, center=[413.12228 595.47687]
+    -> candidate 23, score=90.969, center=[311.36908 466.8788 ]
+    -> candidate 24, score=9.573, center=[379.9149  617.14734]
+    -> candidate 29, score=107.575, center=[311.7357  334.51456]
+    -> candidate 30, score=49.486, center=[321.7326 712.5238]
+    -> candidate 33, score=76.570, center=[532.7108  244.94577]
+    -> candidate 36, score=15.437, center=[406.76968 409.97574]
+    -> candidate 37, score=9.007, center=[392.66074 519.8453 ]
+    -> candidate 42, score=71.627, center=[496.83737 426.50406]
+    -> candidate 44, score=40.444, center=[321.8209  766.47015]
+  Stem 4:
+    -> candidate 33, score=32.582, center=[532.7108  244.94577]
+  Stem 5:
+    -> candidate 33, score=68.911, center=[532.7108  244.94577]
+    -> candidate 39, score=75.656, center=[390.7093 303.0814]
+  Stem 6:
+    -> candidate 33, score=17.172, center=[532.7108  244.94577]
+  Stem 7:
+    -> candidate 27, score=2.782, center=[912.18604 485.90366]
+  Stem 8:
+    -> candidate 23, score=3.257, center=[311.36908 466.8788 ]
+    -> candidate 29, score=15.598, center=[311.7357  334.51456]
+  Stem 9:
+    -> candidate 4, score=43.935, center=[529.9388  357.00876]
+    -> candidate 8, score=58.649, center=[315.06558 591.18945]
+    -> candidate 11, score=0.741, center=[413.12228 595.47687]
+    -> candidate 24, score=2.947, center=[379.9149  617.14734]
+    -> candidate 30, score=23.641, center=[321.7326 712.5238]
+    -> candidate 42, score=36.233, center=[496.83737 426.50406]
+  Stem 10:
+  Stem 11:
+    -> candidate 4, score=1.496, center=[529.9388  357.00876]
+    -> candidate 42, score=1.182, center=[496.83737 426.50406]
+  Stem 12:
+    -> candidate 0, score=2.509, center=[918.2874  764.97723]
+    -> candidate 17, score=9.121, center=[751.5    281.4694]
+    -> candidate 20, score=1.844, center=[798.4313  416.47812]
+    -> candidate 31, score=76.625, center=[677.7203 279.8046]
+  Stem 13:
+    -> candidate 7, score=1.268, center=[843.9271 553.4623]
+    -> candidate 27, score=2.363, center=[912.18604 485.90366]
+  Stem 14:
+    -> candidate 7, score=33.680, center=[843.9271 553.4623]
+    -> candidate 13, score=21.371, center=[724.70074 678.55414]
+    -> candidate 25, score=5.925, center=[587.8923  823.72095]
+    -> candidate 27, score=36.807, center=[912.18604 485.90366]
+    -> candidate 35, score=7.394, center=[481.7043 933.6989]
+  Stem 15:
+    -> candidate 5, score=1.169, center=[515.3146 651.8893]
+    -> candidate 6, score=46.861, center=[554.61847 546.1671 ]
+    -> candidate 33, score=57.070, center=[532.7108  244.94577]
+    -> candidate 36, score=82.121, center=[406.76968 409.97574]
+    -> candidate 39, score=86.252, center=[390.7093 303.0814]
+  Stem 16:
+    -> candidate 2, score=41.836, center=[689.55963 374.2523 ]
+    -> candidate 6, score=105.594, center=[554.61847 546.1671 ]
+    -> candidate 31, score=44.333, center=[677.7203 279.8046]
+    -> candidate 32, score=14.287, center=[701.98737 650.0597 ]
+    -> candidate 33, score=93.212, center=[532.7108  244.94577]
+    -> candidate 34, score=38.689, center=[700.759   472.59277]
+    -> candidate 39, score=242.165, center=[390.7093 303.0814]
+    -> candidate 43, score=31.984, center=[702.1556  534.18445]
+  Stem 17:
+  Stem 18:
+    -> candidate 6, score=100.305, center=[554.61847 546.1671 ]
+    -> candidate 29, score=87.543, center=[311.7357  334.51456]
+    -> candidate 33, score=127.818, center=[532.7108  244.94577]
+    -> candidate 36, score=18.219, center=[406.76968 409.97574]
+    -> candidate 37, score=45.520, center=[392.66074 519.8453 ]
+    -> candidate 39, score=17.031, center=[390.7093 303.0814]
+  Stem 19:
+    -> candidate 6, score=2.902, center=[554.61847 546.1671 ]
+    -> candidate 33, score=5.121, center=[532.7108  244.94577]
+  Stem 20:
+    -> candidate 17, score=5.443, center=[751.5    281.4694]
+  Stem 21:
+    -> candidate 2, score=169.125, center=[689.55963 374.2523 ]
+    -> candidate 5, score=9.695, center=[515.3146 651.8893]
+    -> candidate 6, score=24.262, center=[554.61847 546.1671 ]
+    -> candidate 10, score=83.090, center=[610.43774 543.6064 ]
+    -> candidate 15, score=8.456, center=[524.1119  773.31274]
+    -> candidate 19, score=37.747, center=[569.4641 662.5359]
+    -> candidate 22, score=3.458, center=[532.56964 850.269  ]
+    -> candidate 29, score=186.618, center=[311.7357  334.51456]
+    -> candidate 31, score=162.486, center=[677.7203 279.8046]
+    -> candidate 33, score=20.998, center=[532.7108  244.94577]
+    -> candidate 34, score=176.389, center=[700.759   472.59277]
+    -> candidate 36, score=111.246, center=[406.76968 409.97574]
+    -> candidate 37, score=128.072, center=[392.66074 519.8453 ]
+    -> candidate 38, score=42.060, center=[578.819  812.1422]
+    -> candidate 39, score=120.887, center=[390.7093 303.0814]
+    -> candidate 41, score=37.039, center=[582.1782 992.8713]
+    -> candidate 43, score=175.259, center=[702.1556  534.18445]
+  Stem 22:
+    -> candidate 5, score=1.853, center=[515.3146 651.8893]
+    -> candidate 6, score=48.379, center=[554.61847 546.1671 ]
+    -> candidate 15, score=0.368, center=[524.1119  773.31274]
+    -> candidate 19, score=52.909, center=[569.4641 662.5359]
+    -> candidate 33, score=60.579, center=[532.7108  244.94577]
+    -> candidate 36, score=79.636, center=[406.76968 409.97574]
+    -> candidate 39, score=83.003, center=[390.7093 303.0814]
+  Stem 23:
+    -> candidate 29, score=0.656, center=[311.7357  334.51456]
+  Stem 24:
+    -> candidate 36, score=4.948, center=[406.76968 409.97574]
+    -> candidate 37, score=1.238, center=[392.66074 519.8453 ]
+  Stem 25:
+    -> candidate 7, score=2.685, center=[843.9271 553.4623]
+    -> candidate 13, score=0.281, center=[724.70074 678.55414]
+    -> candidate 27, score=13.035, center=[912.18604 485.90366]
+  Stem 26:
+    -> candidate 2, score=0.763, center=[689.55963 374.2523 ]
+    -> candidate 5, score=114.315, center=[515.3146 651.8893]
+    -> candidate 6, score=88.557, center=[554.61847 546.1671 ]
+    -> candidate 10, score=52.484, center=[610.43774 543.6064 ]
+    -> candidate 15, score=90.347, center=[524.1119  773.31274]
+    -> candidate 19, score=60.814, center=[569.4641 662.5359]
+    -> candidate 22, score=69.449, center=[532.56964 850.269  ]
+    -> candidate 27, score=228.769, center=[912.18604 485.90366]
+    -> candidate 32, score=46.417, center=[701.98737 650.0597 ]
+    -> candidate 33, score=183.281, center=[532.7108  244.94577]
+    -> candidate 34, score=15.473, center=[700.759   472.59277]
+    -> candidate 38, score=33.644, center=[578.819  812.1422]
+    -> candidate 41, score=0.044, center=[582.1782 992.8713]
+    -> candidate 43, score=29.310, center=[702.1556  534.18445]
+  Stem 27:
+  Stem 28:
+    -> candidate 4, score=200.525, center=[529.9388  357.00876]
+    -> candidate 8, score=12.057, center=[315.06558 591.18945]
+    -> candidate 23, score=14.035, center=[311.36908 466.8788 ]
+    -> candidate 24, score=36.287, center=[379.9149  617.14734]
+    -> candidate 29, score=10.640, center=[311.7357  334.51456]
+    -> candidate 30, score=11.051, center=[321.7326 712.5238]
+    -> candidate 33, score=209.677, center=[532.7108  244.94577]
+    -> candidate 36, score=79.826, center=[406.76968 409.97574]
+    -> candidate 37, score=62.571, center=[392.66074 519.8453 ]
+    -> candidate 42, score=172.002, center=[496.83737 426.50406]
+    -> candidate 44, score=12.810, center=[321.8209  766.47015]
+  Stem 29:
+  Stem 30:
+    -> candidate 8, score=4.316, center=[315.06558 591.18945]
+    -> candidate 23, score=15.028, center=[311.36908 466.8788 ]
+    -> candidate 29, score=16.876, center=[311.7357  334.51456]
+    -> candidate 36, score=76.537, center=[406.76968 409.97574]
+  Stem 31:
+  Stem 32:
+    -> candidate 2, score=11.579, center=[689.55963 374.2523 ]
+    -> candidate 31, score=23.836, center=[677.7203 279.8046]
+    -> candidate 34, score=1.457, center=[700.759   472.59277]
+    -> candidate 43, score=0.425, center=[702.1556  534.18445]
+  Stem 33:
+  Stem 34:
+    -> candidate 2, score=7.134, center=[689.55963 374.2523 ]
+    -> candidate 31, score=16.124, center=[677.7203 279.8046]
+  Stem 35:
+    -> candidate 7, score=42.254, center=[843.9271 553.4623]
+    -> candidate 13, score=21.458, center=[724.70074 678.55414]
+    -> candidate 25, score=0.993, center=[587.8923  823.72095]
+    -> candidate 27, score=46.523, center=[912.18604 485.90366]
+  Stem 36:
+    -> candidate 39, score=6.611, center=[390.7093 303.0814]
+  Stem 37:
+    -> candidate 36, score=14.754, center=[406.76968 409.97574]
+  Stem 38:
+    -> candidate 2, score=96.490, center=[689.55963 374.2523 ]
+    -> candidate 6, score=20.941, center=[554.61847 546.1671 ]
+    -> candidate 10, score=23.553, center=[610.43774 543.6064 ]
+    -> candidate 19, score=8.524, center=[569.4641 662.5359]
+    -> candidate 31, score=83.554, center=[677.7203 279.8046]
+    -> candidate 33, score=58.514, center=[532.7108  244.94577]
+  Stem 39:
+  Stem 40:
+    -> candidate 2, score=17.827, center=[689.55963 374.2523 ]
+    -> candidate 5, score=93.056, center=[515.3146 651.8893]
+    -> candidate 6, score=64.984, center=[554.61847 546.1671 ]
+    -> candidate 10, score=26.943, center=[610.43774 543.6064 ]
+    -> candidate 15, score=72.176, center=[524.1119  773.31274]
+    -> candidate 18, score=6.452, center=[499.58826 902.7875 ]
+    -> candidate 19, score=40.071, center=[569.4641 662.5359]
+    -> candidate 22, score=53.443, center=[532.56964 850.269  ]
+    -> candidate 26, score=7.705, center=[ 564.17365 1089.2655 ]
+    -> candidate 27, score=260.356, center=[912.18604 485.90366]
+    -> candidate 32, score=70.304, center=[701.98737 650.0597 ]
+    -> candidate 33, score=148.148, center=[532.7108  244.94577]
+    -> candidate 34, score=45.015, center=[700.759   472.59277]
+    -> candidate 36, score=248.204, center=[406.76968 409.97574]
+    -> candidate 38, score=16.312, center=[578.819  812.1422]
+    -> candidate 39, score=287.499, center=[390.7093 303.0814]
+    -> candidate 41, score=11.952, center=[582.1782 992.8713]
+    -> candidate 43, score=56.929, center=[702.1556  534.18445]
+  Stem 41:
+    -> candidate 2, score=5.236, center=[689.55963 374.2523 ]
+    -> candidate 6, score=92.414, center=[554.61847 546.1671 ]
+    -> candidate 10, score=56.807, center=[610.43774 543.6064 ]
+    -> candidate 19, score=63.714, center=[569.4641 662.5359]
+    -> candidate 32, score=42.489, center=[701.98737 650.0597 ]
+    -> candidate 33, score=190.577, center=[532.7108  244.94577]
+    -> candidate 34, score=9.855, center=[700.759   472.59277]
+    -> candidate 38, score=35.382, center=[578.819  812.1422]
+    -> candidate 43, score=24.304, center=[702.1556  534.18445]
+  Stem 42:
+    -> candidate 4, score=1.115, center=[529.9388  357.00876]
+    -> candidate 33, score=43.461, center=[532.7108  244.94577]
+  Stem 43:
+    -> candidate 2, score=10.162, center=[689.55963 374.2523 ]
+    -> candidate 31, score=21.731, center=[677.7203 279.8046]
+    -> candidate 34, score=0.663, center=[700.759   472.59277]
+  Stem 44:
+    -> candidate 8, score=1.486, center=[315.06558 591.18945]
+    -> candidate 23, score=6.889, center=[311.36908 466.8788 ]
+    -> candidate 29, score=5.734, center=[311.7357  334.51456]
+    -> candidate 30, score=0.213, center=[321.7326 712.5238]
+    -> candidate 36, score=87.037, center=[406.76968 409.97574]
+    -> candidate 37, score=71.866, center=[392.66074 519.8453 ]

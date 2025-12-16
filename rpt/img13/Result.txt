@@ -1,0 +1,1 @@
+overall_stats = {'precision_matched': 0.9123711340206185, 'recall_matched': 0.9664586583463338, 'f1_matched': 0.9386363636363636, 'precision_mean': 0.8990786604391044, 'recall_mean': 0.9451226238283218, 'f1_mean': 0.9191995500242673, 'total_gt_clusters': 1282, 'total_pred_clusters': 1358, 'matched': 1239}

@@ -1,0 +1,782 @@
+filename: 10_jpg.rf.0f8b25b67c944fbf91b01150b37f8827.jpg
+There are 2 candidates: [0 1]
+id: 0 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 10_jpg.rf.723bdd67e5dd3cf97d0c602d250b2db7.jpg
+There are 2 candidates: [0 1]
+id: 1 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 10_jpg.rf.d997883a46353efffe799770d0057c0e.jpg
+There are 2 candidates: [0 1]
+id: 2 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 11_jpg.rf.30af165c624cc94a767b5500f426d79a.jpg
+id: 3 incorrect - image_11_jpg.rf.30af165c624cc94a767b5500f426d79a.jpg has no segments
+filename: 11_jpg.rf.4558db8dcbf3aa7163b107a8ba6283ea.jpg
+There are 2 candidates: [5 9]
+id: 4 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 11_jpg.rf.6745cce81a51fe53785e70a141b005ae.jpg
+id: 5 correct — pickable ratio: 1.00 (1/1) 
+
+filename: 11_jpg.rf.72389eb1486780849c7de7a743334579.jpg
+id: 6 incorrect - image_11_jpg.rf.72389eb1486780849c7de7a743334579.jpg has no segments
+filename: 11_jpg.rf.dae81371442b753d61f7e4815e8609e4.jpg
+id: 7 incorrect - image_11_jpg.rf.dae81371442b753d61f7e4815e8609e4.jpg has no segments
+filename: 11_jpg.rf.e0f41ea72c62db6f5b30d5ad1c07bfc6.jpg
+id: 8 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 12_jpg.rf.00b3962857a784b9cb8ea8e3cf852bcb.jpg
+There are 5 candidates: [1 2 7 8 9]
+id: 9 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 12_jpg.rf.b4827d72042dfa332e3c697850106295.jpg
+id: 10 incorrect - image_12_jpg.rf.b4827d72042dfa332e3c697850106295.jpg has no segments
+filename: 12_jpg.rf.c918c074e93edfad624b578b0df7106f.jpg
+id: 11 incorrect - image_12_jpg.rf.c918c074e93edfad624b578b0df7106f.jpg has no segments
+filename: 12_jpg.rf.cce3ac91c8cbfe7e136e96af55c14fec.jpg
+There are 4 candidates: [1 5 7 9]
+id: 12 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 12_jpg.rf.e7772b284f615e512957127254195cba.jpg
+There are 2 candidates: [0 2]
+id: 13 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 12_jpg.rf.ed3a047f975a5f99b3a36467b03ad19d.jpg
+There are 2 candidates: [0 2]
+id: 14 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 13_jpg.rf.23cbee0251636efd525179ef26ca5821.jpg
+id: 15 incorrect - image_13_jpg.rf.23cbee0251636efd525179ef26ca5821.jpg has no segments
+filename: 13_jpg.rf.43a345d41cff3ad78c513f7ba2befb05.jpg
+id: 16 incorrect - image_13_jpg.rf.43a345d41cff3ad78c513f7ba2befb05.jpg has no segments
+filename: 13_jpg.rf.563635fbcd2be4178b78aa413436de0b.jpg
+There are 3 candidates: [2 4 9]
+id: 17 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 13_jpg.rf.b6b65dd262ea4ebc72b5c4f6fc574e1c.jpg
+There are 2 candidates: [0 9]
+id: 18 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 13_jpg.rf.e63f57bd37e01a6b5596efe8ac6d5547.jpg
+There are 2 candidates: [0 2]
+id: 19 wrong — pickable ratio: 0.00 (0/4) 
+
+filename: 13_jpg.rf.f3d2c96dfc17a13de2d2736b9fa2bbd7.jpg
+There are 2 candidates: [1 2]
+id: 20 wrong — pickable ratio: 0.00 (0/4) 
+
+filename: 14_jpg.rf.45a806cf442969ca2ce1e856fad28b74.jpg
+There are 3 candidates: [0 1 2]
+id: 21 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 14_jpg.rf.81daae9f08c51efcd5e161434d09e37c.jpg
+There are 3 candidates: [0 1 2]
+id: 22 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 14_jpg.rf.cf9a5432f2a4d57431414109af632f57.jpg
+There are 6 candidates: [1 2 4 5 8 9]
+id: 23 wrong — pickable ratio: 0.00 (0/4) 
+
+filename: 14_jpg.rf.deabee6637165678916aa5458f00a13e.jpg
+There are 7 candidates: [0 1 2 3 4 7 9]
+id: 24 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 14_jpg.rf.e3d1a6ab0b2c51bf89aa9651828b5c21.jpg
+There are 6 candidates: [0 1 3 6 7 9]
+id: 25 wrong — pickable ratio: 0.00 (0/4) 
+
+filename: 14_jpg.rf.f4d40111a9f0fcfceb8c7f48a9f05322.jpg
+There are 3 candidates: [0 1 2]
+id: 26 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 15_jpg.rf.041b7c3edeef99adb83045504e054eae.jpg
+There are 2 candidates: [0 1]
+id: 27 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 15_jpg.rf.5feafa809ca08e5f6e5b731aa4ad5bbd.jpg
+There are 5 candidates: [1 3 5 6 7]
+id: 28 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 15_jpg.rf.7e967e8222211c8664210e529a25eed0.jpg
+id: 29 incorrect - image_15_jpg.rf.7e967e8222211c8664210e529a25eed0.jpg has no segments
+filename: 15_jpg.rf.953af78e26e2005ab399f419f61925bd.jpg
+There are 2 candidates: [0 1]
+id: 30 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 15_jpg.rf.c1291a2e5894dbd1c75244fa7ad02b7c.jpg
+There are 7 candidates: [ 1  2  4  6  7  8 10]
+id: 31 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 15_jpg.rf.d5c5cde1734b06c0ad3430aad661d4c5.jpg
+There are 4 candidates: [2 6 7 8]
+id: 32 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 16_jpg.rf.528306c96ff482db5c1adf3520b5318c.jpg
+There are 8 candidates: [0 1 2 4 5 7 8 9]
+id: 33 correct — pickable ratio: 1.00 (7/7) 
+
+filename: 16_jpg.rf.57f394bdcbec1892db120c3a69579543.jpg
+There are 8 candidates: [0 3 4 5 6 7 8 9]
+id: 34 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 16_jpg.rf.6ba025e9fe538eaed368b964ddcf0b2b.jpg
+There are 2 candidates: [0 2]
+id: 35 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 16_jpg.rf.795e3a5d7be58897ae9317d6d062fe37.jpg
+id: 36 incorrect - image_16_jpg.rf.795e3a5d7be58897ae9317d6d062fe37.jpg has no segments
+filename: 16_jpg.rf.a4c6b7db4f1c096751261564895f9cc4.jpg
+There are 4 candidates: [0 1 2 3]
+id: 37 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 16_jpg.rf.eb844b71f48b4123b78727d481551ae9.jpg
+There are 2 candidates: [0 2]
+id: 38 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 17_jpg.rf.1b376f34ee33e52eaca0b20e25e1c18d.jpg
+There are 6 candidates: [1 5 6 7 8 9]
+id: 39 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 17_jpg.rf.5cc5843c00398e35ee1fa11748ee6f73.jpg
+There are 6 candidates: [1 3 4 7 8 9]
+id: 40 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 17_jpg.rf.9e047096f1c313beb4320ae23c85bb74.jpg
+There are 7 candidates: [1 3 5 6 7 8 9]
+id: 41 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 18_jpg.rf.010c0061ae264dd56b4f8224b3f777a6.jpg
+There are 3 candidates: [2 3 6]
+id: 42 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 18_jpg.rf.1fc6349fb9eb5911f324793ec2e57dac.jpg
+id: 43 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 18_jpg.rf.2a1caa63bce1df07aed4f4089e470ff9.jpg
+id: 44 incorrect - image_18_jpg.rf.2a1caa63bce1df07aed4f4089e470ff9.jpg has no segments
+filename: 18_jpg.rf.afe704ad06066a38dcaf31292f37ff2d.jpg
+There are 6 candidates: [ 5  6  7  8  9 11]
+id: 45 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 18_jpg.rf.d919c4855d2f9a8fb1f62250066c3ed2.jpg
+There are 2 candidates: [1 2]
+id: 46 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 18_jpg.rf.fc10e738a6e890232b31bc2068f7e5b7.jpg
+There are 3 candidates: [3 5 7]
+id: 47 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 19_jpg.rf.1f7c4e94e6009f59eaa02f643b412a25.jpg
+There are 2 candidates: [1 3]
+id: 48 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 19_jpg.rf.2ccf9d45dc35000c66b668b913857f4a.jpg
+There are 6 candidates: [ 0  3  4  5  6 10]
+id: 49 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 19_jpg.rf.54913f96db489d974acbcb214dcca534.jpg
+There are 5 candidates: [1 2 4 5 6]
+id: 50 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 19_jpg.rf.8c4432cfc06ba40b3c86802fe776a68a.jpg
+There are 2 candidates: [2 3]
+id: 51 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 19_jpg.rf.9387e9bb2f15116a36d79aa4b8605b06.jpg
+There are 2 candidates: [0 1]
+id: 52 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 19_jpg.rf.9901feeed87146ff55da3d2ac5aa8bc8.jpg
+id: 53 incorrect - image_19_jpg.rf.9901feeed87146ff55da3d2ac5aa8bc8.jpg has no segments
+filename: 20_jpg.rf.21af92b38a7851ac316bbad7f2c0b997.jpg
+There are 6 candidates: [1 2 3 4 5 8]
+id: 54 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 20_jpg.rf.33bc5193b166da66f144d66f8d017a11.jpg
+id: 55 incorrect - image_20_jpg.rf.33bc5193b166da66f144d66f8d017a11.jpg has no segments
+filename: 20_jpg.rf.50c95ddc9dfa345b1378879cec13b4e6.jpg
+There are 6 candidates: [0 2 5 6 7 9]
+id: 56 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 20_jpg.rf.82e93f6d522444cf4e2607daf0c10cca.jpg
+There are 3 candidates: [0 1 3]
+id: 57 correct — pickable ratio: 1.00 (7/7) 
+
+filename: 20_jpg.rf.aa57923e34af559e846aafa9a816c97e.jpg
+There are 3 candidates: [0 1 2]
+id: 58 correct — pickable ratio: 1.00 (7/7) 
+
+filename: 20_jpg.rf.c9594fef682fd88bb868e368e8726816.jpg
+id: 59 incorrect - image_20_jpg.rf.c9594fef682fd88bb868e368e8726816.jpg has no segments
+filename: 21_jpg.rf.172244e722464eb8283626e5974a195f.jpg
+There are 9 candidates: [0 1 2 3 4 5 6 7 8]
+id: 60 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 21_jpg.rf.41ed78898c4457f9219f883fab5befdd.jpg
+There are 9 candidates: [0 1 2 4 5 6 7 8 9]
+id: 61 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 21_jpg.rf.64a6ee9f506887da727fdc7fd7515406.jpg
+id: 62 incorrect - image_21_jpg.rf.64a6ee9f506887da727fdc7fd7515406.jpg has no segments
+filename: 21_jpg.rf.7236d92184df260a756fbae2e551935a.jpg
+There are 9 candidates: [0 1 2 3 4 5 6 7 8]
+total stems = 0, wrong annotation
+filename: 21_jpg.rf.736cddad67c853a862e0d018f3f67472.jpg
+There are 3 candidates: [0 1 3]
+id: 64 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 21_jpg.rf.ffa1edf7ef2a9118fa6efc566c208f66.jpg
+There are 3 candidates: [1 2 3]
+id: 65 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 22_jpg.rf.02c7134add1b648f4fbdecade9ad68a6.jpg
+There are 2 candidates: [1 3]
+id: 66 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 22_jpg.rf.42cba4a0ca5510e1228d37ff2c61d91e.jpg
+id: 67 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 22_jpg.rf.979bbf572933c72ec3466a18a6a091bd.jpg
+id: 68 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 23_jpg.rf.2b88d30bdb962df2b2038150e44ec1de.jpg
+There are 3 candidates: [0 1 2]
+id: 69 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 23_jpg.rf.3e01a77ae7f6c12eeb2ef68174cb40cb.jpg
+There are 5 candidates: [0 1 5 8 9]
+id: 70 correct — pickable ratio: 1.00 (8/8) 
+
+filename: 23_jpg.rf.54b93df1d427ba708a6d42345891f0b2.jpg
+id: 71 incorrect - image_23_jpg.rf.54b93df1d427ba708a6d42345891f0b2.jpg has no segments
+filename: 23_jpg.rf.93d823d5b83aec7581c9db42e125faf6.jpg
+There are 6 candidates: [ 0  1  4  5  8 10]
+id: 72 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 23_jpg.rf.c37673196356f436cc67a1258521e0f9.jpg
+id: 73 incorrect - image_23_jpg.rf.c37673196356f436cc67a1258521e0f9.jpg has no segments
+filename: 23_jpg.rf.da31449041469642f98144ec62303abe.jpg
+There are 3 candidates: [0 1 2]
+id: 74 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 24_jpg.rf.020a35782d4777a3d77917f9f4b97d39.jpg
+id: 75 incorrect - image_24_jpg.rf.020a35782d4777a3d77917f9f4b97d39.jpg has no segments
+filename: 24_jpg.rf.4b2c1b3627227ed057dbcd44c2986b47.jpg
+There are 5 candidates: [0 1 5 6 7]
+id: 76 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 24_jpg.rf.8cdad53383e87844706fc60c6303c897.jpg
+There are 3 candidates: [0 2 3]
+id: 77 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 24_jpg.rf.b2523acfeade62e2908a9ffe6076d62b.jpg
+There are 3 candidates: [0 1 4]
+id: 78 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 24_jpg.rf.c5aeebafe878eda1c23a484a99409285.jpg
+id: 79 incorrect - image_24_jpg.rf.c5aeebafe878eda1c23a484a99409285.jpg has no segments
+filename: 24_jpg.rf.f78aefa953bc7bfd401f2fd1f835a98f.jpg
+There are 3 candidates: [0 1 3]
+id: 80 wrong — pickable ratio: 0.00 (0/6) 
+
+filename: 25_jpg.rf.3d4d277769611a02031b6b1a79697670.jpg
+There are 6 candidates: [4 5 6 7 8 9]
+id: 81 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 25_jpg.rf.5735b35829755cd9f5eb7f7f4a337e9e.jpg
+There are 6 candidates: [1 3 6 7 8 9]
+id: 82 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 25_jpg.rf.7f918e3b6ca8bba77cd7b1d6e128dbab.jpg
+There are 6 candidates: [0 3 4 6 7 9]
+id: 83 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 26_jpg.rf.1d498e6a4a9c7e9791145b22cd1af8d6.jpg
+There are 4 candidates: [4 5 6 9]
+id: 84 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 26_jpg.rf.76c9401ebb566f7a00128c4ace1a5765.jpg
+There are 4 candidates: [4 5 6 9]
+id: 85 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 26_jpg.rf.fb6400474ced08140d5332c1a5cca0df.jpg
+There are 4 candidates: [4 6 7 9]
+id: 86 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 27_jpg.rf.29853a2c25e0d940638259733f9a13cf.jpg
+There are 2 candidates: [1 3]
+id: 87 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 27_jpg.rf.5fbb56097b2471a21f49d915db7451bc.jpg
+There are 4 candidates: [0 1 3 4]
+id: 88 wrong — pickable ratio: 0.40 (2/5) 
+
+filename: 27_jpg.rf.919dcaba0f50482d31c8a19b2055918e.jpg
+There are 4 candidates: [4 5 6 8]
+id: 89 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 27_jpg.rf.9aee0e2c9c06e4ca3b3806a7d887238b.jpg
+There are 5 candidates: [1 4 6 8 9]
+id: 90 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 27_jpg.rf.b62114a015bcc9702ca021a045041897.jpg
+There are 4 candidates: [1 3 6 9]
+id: 91 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 27_jpg.rf.fec7d03b30a37cb9b0e9d09deaca9e4a.jpg
+There are 5 candidates: [0 3 4 5 6]
+id: 92 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 28_jpg.rf.3cd05e0ba7526485bd2cf0f862099768.jpg
+There are 5 candidates: [0 1 3 4 5]
+id: 93 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 28_jpg.rf.8c779af38a00241caa92883c9fc94216.jpg
+id: 94 incorrect - image_28_jpg.rf.8c779af38a00241caa92883c9fc94216.jpg has no segments
+filename: 28_jpg.rf.fa3fa0e536a60be61c685e0dfae604dc.jpg
+There are 5 candidates: [0 1 2 3 4]
+id: 95 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 29_jpg.rf.bf8da75d8bc812cf2288b1fed62a0bc1.jpg
+There are 3 candidates: [1 2 4]
+id: 96 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 29_jpg.rf.cd13eb5321f3c1aba2879c7ce292e0fe.jpg
+There are 2 candidates: [1 3]
+id: 97 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 29_jpg.rf.d9ce75decba276ca347b7955710d1b35.jpg
+There are 3 candidates: [0 2 3]
+id: 98 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 2_jpg.rf.bf81b9d1f555e881f719e3d36652968f.jpg
+id: 99 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 2_jpg.rf.cef4899fbbf45612aac06e242a9c1b24.jpg
+id: 100 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 2_jpg.rf.d3d9fd27e1ca418f5734626aec56f696.jpg
+id: 101 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 30_jpg.rf.0d873ef9d25cdc7364d1125647313a20.jpg
+There are 5 candidates: [3 5 6 7 9]
+id: 102 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 30_jpg.rf.4f354f95a88bf0c7540097dec1d2e6ab.jpg
+id: 103 incorrect - image_30_jpg.rf.4f354f95a88bf0c7540097dec1d2e6ab.jpg has no segments
+filename: 30_jpg.rf.e368b880f9155cc04789b8633df53e04.jpg
+There are 5 candidates: [1 6 7 8 9]
+id: 104 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 31_jpg.rf.534f7654b0cf0693335d9208a9514ebb.jpg
+There are 2 candidates: [2 3]
+id: 105 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 31_jpg.rf.752022d795513f0e5457a9750b1801f0.jpg
+id: 106 incorrect - image_31_jpg.rf.752022d795513f0e5457a9750b1801f0.jpg has no segments
+filename: 31_jpg.rf.9f29c89c31e055051f4b2d8407726caa.jpg
+There are 3 candidates: [2 5 7]
+id: 107 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 31_jpg.rf.aa11f5b5569a389be981800f1a68b270.jpg
+There are 2 candidates: [0 4]
+id: 108 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 31_jpg.rf.e0d6dfcdc679f66ceeb8b5852fa66a40.jpg
+There are 2 candidates: [2 5]
+id: 109 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 31_jpg.rf.e5381e6bd4e95a78c40b1b7b00ecdb30.jpg
+There are 2 candidates: [0 2]
+id: 110 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 32_jpg.rf.2dbac46b3dcaf454f31c31aa6bfda600.jpg
+There are 4 candidates: [2 3 4 5]
+id: 111 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 32_jpg.rf.2ffc557a04837490fdc45b431787d2e0.jpg
+id: 112 incorrect - image_32_jpg.rf.2ffc557a04837490fdc45b431787d2e0.jpg has no segments
+filename: 32_jpg.rf.55e0121a472a717b1b6a8941b9e3f2f6.jpg
+id: 113 incorrect - image_32_jpg.rf.55e0121a472a717b1b6a8941b9e3f2f6.jpg has no segments
+filename: 32_jpg.rf.978cad76f160dcf1c815087b8b2f0ef7.jpg
+There are 7 candidates: [ 1  2  3  7  9 11 12]
+id: 114 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 32_jpg.rf.c5fd9f868946a59454f3bab7c0a32971.jpg
+There are 4 candidates: [1 2 4 5]
+id: 115 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 32_jpg.rf.de0489519315e097a348f4873fd0afb5.jpg
+There are 7 candidates: [ 0  5  6  8  9 10 11]
+id: 116 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 33_jpg.rf.5a7e68597dfe5a005090e69f17e25b42.jpg
+There are 2 candidates: [2 3]
+id: 117 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 33_jpg.rf.72da3946cce4f6060eb41321673f0f32.jpg
+There are 2 candidates: [2 3]
+id: 118 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 33_jpg.rf.da54b09b29b3bb83508a70effbdc580d.jpg
+There are 3 candidates: [1 4 5]
+id: 119 wrong — pickable ratio: 0.00 (0/3) 
+
+filename: 34_jpg.rf.17cb320cc1a768ae59722f732e49403b.jpg
+id: 120 incorrect - image_34_jpg.rf.17cb320cc1a768ae59722f732e49403b.jpg has no segments
+filename: 34_jpg.rf.1f59fc558126e6a3f5a2a670d8a5d81c.jpg
+There are 3 candidates: [2 5 8]
+id: 121 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 34_jpg.rf.47424354131335664d86b1c3b3074035.jpg
+There are 3 candidates: [1 6 8]
+id: 122 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 35_jpg.rf.03925046b13cedbdfe33d5cb91cb91e3.jpg
+There are 3 candidates: [0 5 7]
+id: 123 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 35_jpg.rf.9f212f1477e56c461ebd2d85a85c5605.jpg
+There are 3 candidates: [0 5 8]
+id: 124 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 35_jpg.rf.a3026f0b7ccd517d9d108bcd58c348ef.jpg
+There are 3 candidates: [0 6 8]
+id: 125 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 36_jpg.rf.04daeb0070dd60c0305e468f74c26cbe.jpg
+There are 4 candidates: [2 4 6 7]
+id: 126 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 36_jpg.rf.06e284a8bdff4bb171a21325ca9f4e65.jpg
+There are 3 candidates: [1 2 4]
+id: 127 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 36_jpg.rf.18693e77d1b1d72d54cc2ed0c48c5f12.jpg
+There are 4 candidates: [1 3 4 5]
+id: 128 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 36_jpg.rf.256db8aaab20c71a43ed5db2ecba8ea2.jpg
+id: 129 incorrect - image_36_jpg.rf.256db8aaab20c71a43ed5db2ecba8ea2.jpg has no segments
+filename: 36_jpg.rf.906a51623629985e35c1b54f42fca6c4.jpg
+id: 130 incorrect - image_36_jpg.rf.906a51623629985e35c1b54f42fca6c4.jpg has no segments
+filename: 36_jpg.rf.bc00124968ade71f4e886857275dd3af.jpg
+There are 4 candidates: [0 3 6 7]
+id: 131 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 37_jpg.rf.1470a817c2914540b1865f6331c8b319.jpg
+There are 7 candidates: [0 1 2 3 4 8 9]
+id: 132 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 37_jpg.rf.202b5ef91cccdbc4168cd6fe8541d818.jpg
+id: 133 incorrect - image_37_jpg.rf.202b5ef91cccdbc4168cd6fe8541d818.jpg has no segments
+filename: 37_jpg.rf.f3029b7d52f604c1e83e9fc0704069ce.jpg
+There are 8 candidates: [0 1 3 4 5 6 7 8]
+id: 134 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 38_jpg.rf.17527fee55aadf56450cf97bb7e61ed7.jpg
+id: 135 incorrect - image_38_jpg.rf.17527fee55aadf56450cf97bb7e61ed7.jpg has no segments
+filename: 38_jpg.rf.7cb95428c7289dc44f92d3ba21031a33.jpg
+There are 6 candidates: [0 1 3 6 8 9]
+id: 136 wrong — pickable ratio: 0.00 (0/4) 
+
+filename: 38_jpg.rf.8dbd09fd9c057d5f155bb9ef6e03c0f1.jpg
+There are 6 candidates: [0 1 3 5 7 8]
+id: 137 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 38_jpg.rf.e75cd252d7b61ec75d354369bf48b96b.jpg
+id: 138 incorrect - image_38_jpg.rf.e75cd252d7b61ec75d354369bf48b96b.jpg has no segments
+filename: 38_jpg.rf.e93553f87494c57c05f1405c192abf04.jpg
+There are 6 candidates: [1 2 4 5 7 9]
+id: 139 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 38_jpg.rf.ef614a634e017c4c6dc7d33c74969f48.jpg
+There are 2 candidates: [3 5]
+id: 140 correct — pickable ratio: 1.00 (7/7) 
+
+filename: 39_jpg.rf.3e302bb8eb698a97b3fe02de328c6ecb.jpg
+There are 5 candidates: [1 4 5 6 7]
+id: 141 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 39_jpg.rf.4de7ef615c8e2b4308b562acdb1525b0.jpg
+There are 4 candidates: [1 3 5 7]
+id: 142 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 39_jpg.rf.573795ff11d1c7232e15b5b20f2f2d37.jpg
+There are 4 candidates: [1 7 8 9]
+id: 143 correct — pickable ratio: 1.00 (2/2) 
+
+filename: 39_jpg.rf.778a5ef8c1dc27840d6b270a59186d68.jpg
+id: 144 incorrect - image_39_jpg.rf.778a5ef8c1dc27840d6b270a59186d68.jpg has no segments
+filename: 39_jpg.rf.974f65460a0dc62d7b159dccbbd83187.jpg
+id: 145 incorrect - image_39_jpg.rf.974f65460a0dc62d7b159dccbbd83187.jpg has no segments
+filename: 39_jpg.rf.c6b2ede0ae2edb9e36b22364b770eca6.jpg
+There are 5 candidates: [3 6 7 8 9]
+id: 146 correct — pickable ratio: 1.00 (2/2) 
+
+filename: 3_jpg.rf.0db33dfbcb5388bc46990a68c89e9328.jpg
+There are 5 candidates: [1 2 4 5 8]
+id: 147 wrong — pickable ratio: 0.00 (0/4) 
+
+filename: 3_jpg.rf.49d91047e6128ce2045027f87aaffbd2.jpg
+id: 148 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 3_jpg.rf.9a0a9622315cff73c9dc2907387b4770.jpg
+id: 149 correct — pickable ratio: 1.00 (2/2) 
+
+filename: 3_jpg.rf.cfaab0a3c522fa1abee638c593694cfd.jpg
+id: 150 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 3_jpg.rf.eb7f2db0ab14889518745f9e72273975.jpg
+There are 4 candidates: [0 3 4 7]
+id: 151 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 3_jpg.rf.f708bc2c75172f953a6576c0a3393fb4.jpg
+There are 4 candidates: [0 2 4 7]
+id: 152 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 40_jpg.rf.04f601df0e5537aa54d4221111a68222.jpg
+id: 153 incorrect - image_40_jpg.rf.04f601df0e5537aa54d4221111a68222.jpg has no segments
+filename: 40_jpg.rf.1a94b80199dc76d8db7d65648fe6c807.jpg
+There are 4 candidates: [2 5 7 8]
+id: 154 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 40_jpg.rf.54267376b482cebcac3e2b75438b9e1e.jpg
+There are 4 candidates: [2 5 7 9]
+id: 155 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 40_jpg.rf.86c9bc90d81bee1ad02cd60967f450ef.jpg
+There are 4 candidates: [2 3 6 9]
+id: 156 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 40_jpg.rf.90b3a73d3d5871562b4a3f4e1b063d19.jpg
+There are 3 candidates: [4 5 8]
+id: 157 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 40_jpg.rf.91b577b2b929cd920df544c6d0ddd76a.jpg
+id: 158 incorrect - image_40_jpg.rf.91b577b2b929cd920df544c6d0ddd76a.jpg has no segments
+filename: 41_jpg.rf.295d3c380fcb31bee5ef265e6088346d.jpg
+There are 3 candidates: [4 5 6]
+id: 159 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 41_jpg.rf.32826ba005a354637f100bf36bd5a0da.jpg
+id: 160 incorrect - image_41_jpg.rf.32826ba005a354637f100bf36bd5a0da.jpg has no segments
+filename: 41_jpg.rf.652647e5e76ed638b1de01c11e93ac95.jpg
+There are 6 candidates: [3 4 5 6 7 9]
+id: 161 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 42_jpg.rf.30f021ec611c06ebf0b66ec2831b64bb.jpg
+id: 162 incorrect - image_42_jpg.rf.30f021ec611c06ebf0b66ec2831b64bb.jpg has no segments
+filename: 42_jpg.rf.84c0715401b17c9199c6cac25ed4909a.jpg
+There are 5 candidates: [0 4 5 6 9]
+total stems = 0, wrong annotation
+filename: 42_jpg.rf.aeaefa8dede6d80e875a61073949ac17.jpg
+There are 5 candidates: [3 5 7 8 9]
+total stems = 0, wrong annotation
+filename: 43_jpg.rf.1411676ee8df8ed75f4583e6f8f1faf5.jpg
+id: 165 incorrect - image_43_jpg.rf.1411676ee8df8ed75f4583e6f8f1faf5.jpg has no segments
+filename: 43_jpg.rf.7e430ea3ebf4f8bc11d37820150db849.jpg
+There are 4 candidates: [2 4 5 7]
+id: 166 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 43_jpg.rf.8a855edc19a439d20a23c6ac627bb99f.jpg
+There are 5 candidates: [2 3 4 5 6]
+id: 167 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 44_jpg.rf.1905fd03cf977f9a7948845c78b6e64c.jpg
+There are 5 candidates: [ 0  3  6  7 10]
+id: 168 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 44_jpg.rf.3f060b1f9813f8d3d3d8bf424bfded69.jpg
+There are 2 candidates: [4 7]
+id: 169 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 44_jpg.rf.407f6195ee5be68d31bacf43de633f82.jpg
+There are 5 candidates: [0 3 4 5 7]
+id: 170 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 44_jpg.rf.52c6daaee9048f8756dc191c199144b0.jpg
+There are 4 candidates: [3 4 8 9]
+id: 171 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 44_jpg.rf.ba53dc8f66b9b7967538a2021f68381d.jpg
+There are 6 candidates: [0 2 4 5 6 7]
+id: 172 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 44_jpg.rf.f44bc104497b93920941b3a508f1760d.jpg
+id: 173 incorrect - image_44_jpg.rf.f44bc104497b93920941b3a508f1760d.jpg has no segments
+filename: 45_jpg.rf.24ac05ab37bc3cdbe656ebe331056392.jpg
+id: 174 incorrect - image_45_jpg.rf.24ac05ab37bc3cdbe656ebe331056392.jpg has no segments
+filename: 45_jpg.rf.541a27ad4ac303b8c47b054e7a8568a9.jpg
+There are 5 candidates: [3 4 5 7 9]
+id: 175 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 45_jpg.rf.56ee8e5a27cdef613576d59b97c9d545.jpg
+There are 10 candidates: [ 1  2  3  5  6  7  8 10 11 12]
+id: 176 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 45_jpg.rf.6032c553c042a1490cf16395969216ad.jpg
+There are 9 candidates: [ 0  2  3  4  6  7  8  9 10]
+id: 177 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 45_jpg.rf.653e57c5626941a21849923ffeb538f9.jpg
+There are 4 candidates: [2 4 6 7]
+id: 178 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 45_jpg.rf.c982b26f58500977997f59b8fefd370d.jpg
+There are 5 candidates: [1 3 4 7 9]
+id: 179 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 46_jpg.rf.0d427ac289be5abac6741a6a3adfb8d1.jpg
+There are 6 candidates: [2 3 4 5 6 8]
+id: 180 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 46_jpg.rf.1af66df74c6275d0d2023b5ac411d4cd.jpg
+id: 181 incorrect - image_46_jpg.rf.1af66df74c6275d0d2023b5ac411d4cd.jpg has no segments
+filename: 46_jpg.rf.6bbf4623f4d5e12699abcb2d89f47476.jpg
+id: 182 incorrect - image_46_jpg.rf.6bbf4623f4d5e12699abcb2d89f47476.jpg has no segments
+filename: 46_jpg.rf.823c25f3d6a839f9155de09e9a6a989e.jpg
+There are 2 candidates: [1 9]
+id: 183 wrong — pickable ratio: 0.00 (0/3) 
+
+filename: 46_jpg.rf.b6793077a1ad08a1f869c48b43cdd5c9.jpg
+There are 6 candidates: [1 2 3 6 7 8]
+id: 184 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 46_jpg.rf.d71c3f1728debbe07e3630139cf6bacb.jpg
+There are 2 candidates: [3 4]
+id: 185 wrong — pickable ratio: 0.00 (0/3) 
+
+filename: 47_jpg.rf.0809045a5f6625fede2c2cbc41a0ed00.jpg
+id: 186 correct — pickable ratio: 1.00 (2/2) 
+
+filename: 47_jpg.rf.40fa9b854d571f6f728824d50bc73293.jpg
+id: 187 wrong — pickable ratio: 0.00 (0/2) 
+
+filename: 47_jpg.rf.8afaad3a10dace88bc6e267da96529b9.jpg
+There are 2 candidates: [2 3]
+id: 188 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 47_jpg.rf.961a6ce05ac97028fe016f7f844af99d.jpg
+id: 189 wrong — pickable ratio: 0.00 (0/1) 
+
+filename: 47_jpg.rf.9ed7f2781ccfe9b0bf081f2f9b94f7a8.jpg
+There are 3 candidates: [3 7 8]
+id: 190 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 47_jpg.rf.edf6dfc0499fba9de6749b50ac530e73.jpg
+There are 3 candidates: [0 1 2]
+id: 191 correct — pickable ratio: 1.00 (3/3) 
+
+filename: 48_jpg.rf.26e7b60504f92e438e972f1114fe6fb3.jpg
+There are 6 candidates: [0 2 3 4 5 6]
+id: 192 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 48_jpg.rf.2c73464071f9e17bc4425177eb77ba6c.jpg
+There are 2 candidates: [1 5]
+id: 193 wrong — pickable ratio: 0.00 (0/2) 
+
+filename: 48_jpg.rf.6d9a82b33ebb23fec19a50bdc010dfce.jpg
+There are 6 candidates: [0 3 4 5 7 8]
+id: 194 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 48_jpg.rf.be5b118982dbe7078323fb891d075323.jpg
+There are 3 candidates: [3 8 9]
+id: 195 wrong — pickable ratio: 0.00 (0/5) 
+
+filename: 48_jpg.rf.dde018432841a04cabc90eeb185f6fde.jpg
+There are 2 candidates: [7 8]
+id: 196 wrong — pickable ratio: 0.00 (0/2) 
+
+filename: 48_jpg.rf.ecf775ec08e512d2330e113e7355bd0e.jpg
+There are 5 candidates: [0 2 4 6 9]
+id: 197 correct — pickable ratio: 0.50 (1/2) 
+
+filename: 50_jpg.rf.8c0b97deea513bb5079b8b54487a8afd.jpg
+There are 3 candidates: [5 6 9]
+id: 198 correct — pickable ratio: 0.50 (2/4) 
+
+filename: 50_jpg.rf.e0c4c38bec8ef89594a90fcce5c474ad.jpg
+id: 199 incorrect - image_50_jpg.rf.e0c4c38bec8ef89594a90fcce5c474ad.jpg has no segments
+filename: 50_jpg.rf.ee2434b54c24a6dfd78add496219e705.jpg
+id: 200 correct — pickable ratio: 0.80 (4/5) 
+
+filename: 5_jpg.rf.89fd484774193521c493fa517feea388.jpg
+id: 201 incorrect - image_5_jpg.rf.89fd484774193521c493fa517feea388.jpg has no segments
+filename: 5_jpg.rf.a36efea274100664d804b6bb04db0882.jpg
+id: 202 correct — pickable ratio: 1.00 (2/2) 
+
+filename: 5_jpg.rf.a8fc63e7739ecff71daabd87294c3bbb.jpg
+id: 203 correct — pickable ratio: 1.00 (2/2) 
+
+filename: 6_jpg.rf.5c3a8819c924fd5c4732e2b5dc69f972.jpg
+id: 204 incorrect - image_6_jpg.rf.5c3a8819c924fd5c4732e2b5dc69f972.jpg has no segments
+filename: 6_jpg.rf.a10b6363e6978386571cab0bcccc7a67.jpg
+There are 2 candidates: [0 1]
+id: 205 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 6_jpg.rf.acfa69200519f927bfc5d53d6f76772c.jpg
+There are 6 candidates: [0 1 3 6 7 9]
+id: 206 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 6_jpg.rf.b139dfd22ba93e81d8aaaab979c33d09.jpg
+id: 207 incorrect - image_6_jpg.rf.b139dfd22ba93e81d8aaaab979c33d09.jpg has no segments
+filename: 6_jpg.rf.c9f61ce420051864d957ac2189bc3299.jpg
+There are 6 candidates: [2 3 4 5 6 8]
+id: 208 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 6_jpg.rf.f33e899a58f27cc94648a7e67c0ba7cf.jpg
+There are 2 candidates: [0 1]
+id: 209 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 7_jpg.rf.23cfa4341f6265c31e1ce1e24b58355a.jpg
+id: 210 correct — pickable ratio: 1.00 (7/7) 
+
+filename: 7_jpg.rf.6d52752d4a3a9af360ca3435d87999a6.jpg
+id: 211 incorrect - image_7_jpg.rf.6d52752d4a3a9af360ca3435d87999a6.jpg has no segments
+filename: 7_jpg.rf.801f5e4120dfb13e38a5271a96762f72.jpg
+There are 5 candidates: [1 3 4 5 7]
+id: 212 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 7_jpg.rf.81a624f7c44b3310893ad1c540e9d0fa.jpg
+There are 5 candidates: [1 3 4 5 7]
+id: 213 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 7_jpg.rf.c48a1177aabd525666a52fe57e693e89.jpg
+id: 214 correct — pickable ratio: 1.00 (7/7) 
+
+filename: 7_jpg.rf.fedab72a0f3865f7f0f7b5b3f1f11acf.jpg
+There are 3 candidates: [2 3 7]
+id: 215 correct — pickable ratio: 1.00 (5/5) 
+
+filename: 8_jpg.rf.62fc6d90f9bb684d8ca6072c810c2b83.jpg
+There are 2 candidates: [0 1]
+id: 216 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 8_jpg.rf.b0ee33af23ad072eb3d77deea05fb76e.jpg
+There are 2 candidates: [0 1]
+id: 217 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 8_jpg.rf.f00fefee4d8fa3ac0dfc18832380abfb.jpg
+There are 2 candidates: [0 1]
+id: 218 correct — pickable ratio: 1.00 (6/6) 
+
+filename: 9_jpg.rf.1225e00a646a0675ebcf861296d26861.jpg
+id: 219 incorrect - image_9_jpg.rf.1225e00a646a0675ebcf861296d26861.jpg has no segments
+filename: 9_jpg.rf.3fab1519bf07dc0e01ea6fb8b50f3826.jpg
+id: 220 correct — pickable ratio: 1.00 (7/7) 
+
+filename: 9_jpg.rf.62f051450e3da3b09bb8dcf1ac3dfc6e.jpg
+There are 2 candidates: [1 2]
+id: 221 correct — pickable ratio: 0.50 (2/4) 
+
+filename: 9_jpg.rf.63b1441ca8b3f070daca32cd4e8159f5.jpg
+id: 222 incorrect - image_9_jpg.rf.63b1441ca8b3f070daca32cd4e8159f5.jpg has no segments
+filename: 9_jpg.rf.697dc6a092e8b3f96bae9de877005cf4.jpg
+There are 5 candidates: [1 2 3 5 8]
+id: 223 correct — pickable ratio: 1.00 (4/4) 
+
+filename: 9_jpg.rf.e6032426bf3b705b279f9354333f763e.jpg
+There are 5 candidates: [2 3 6 7 8]
+id: 224 correct — pickable ratio: 1.00 (4/4) 

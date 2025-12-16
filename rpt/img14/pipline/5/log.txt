@@ -1,0 +1,32 @@
+overall accuracy: 144/175 = 0.8228571428571428, rest of 50 images are incorrectly annotated.
+
+8: defect of long stem mask detection
+13,14: a small error of mask detection
+19: unsolvable, the occlusion happens on the crossing part
+23,25: might be one of the options, but due to the defect of long stem mask detection, not picking the most obvious one
+27,30: defect of long stem mask detection
+28,31: a small error of mask detection leads to the failure.
+34: defect of long stem mask detection
+46: defect of long stem mask detection
+66: defect of long stem mask detection
+69,74: unsolvable, the occlusion happens on the crossing part
+77,80: defect of long stem mask detection
+88:stem pairing error, pickable ratio: 0.40 (2/5) 
+109: defect of long stem mask detection
+119: a small error of mask detection leads to the failure.
+123: defect of long stem mask detection
+136: a small error of mask detection leads to the failure.
+147: defect of long stem mask detection
+183,185: unsolvable, the occlusion happens on the crossing part
+187: defect of long stem mask detection
+189: defect of long stem mask detection, top selection algorithm error?
+193,195,196: defect of long stem mask detection
+
+16/31 are due to the defect of long stem mask detection
+6/31 are due to a small error of mask detection
+5/31 are unsolvable, the occlusion happens on the crossing part
+
+Yolo：boundary defect, depends on the grid accuracy
+mmdetection: RoI defect, downsampling breaks the long stems.
+
+

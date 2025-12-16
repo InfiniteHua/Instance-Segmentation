@@ -1,0 +1,7 @@
+experiment 1：17/132 valid annotations = 87%. This stops at 187th because cuda out of memory, solved by "del result
+        torch.cuda.empty_cache()
+        gc.collect()"
+
+experiment 2: overall accuracy: 158/178 = 0.8876404494382022. This finished the whole annotation set of 224 images with 46 wrong annotations. To be notice, this exp is using mask-rcnn and based on which stem pairing, top selection with gt_masks.
+
+1. Error happens when choosing the best candidate, sometimes we want the one with least crossing instead of the largest exposed area.

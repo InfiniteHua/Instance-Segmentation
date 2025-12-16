@@ -1,0 +1,93 @@
+3（1），（5）solve length problem by devided into up/low length，inaccurate masking (rhombus), center shift（6）mask-rcnn defect: overlapping detection
+
+5（2）upper and lower relation error when horizontal stem, but fundamentally because of opposite stem direction (>90)
+
+6（1） mask detection error, increase the weight of conf ，（3）same ，（5）terrible mask detection error, solve rhombus by filtering out pixles < 100
+
+7（3），（4）update 'if < 10, find closest'，（6）add 'if < 11, find closest' to iteration 
+
+9（3）very messy mask detection，（4）modify the angle limit, larger ang_pos, larger tolerance of ang diff
+
+11（2）filter out overlapping masks, closest mask -> smallest distance*score，（5）add filter strategy: if a to b is small but b to a is large, this is a false pairing
+
+12 （1）error from choosing the smallest distance*score instead of just shortest distance when scores < 11 or 10. But we modify the distance here from d between center to the d between top and bot to makes the longer more persuasive  ，（6）same as 5(2)
+
+13 （1）divide 'if < 10, find closest' into <3 and <10 because if the score is <3 only choose the closest, the score doesnt matter (still this may cause problem)，（3），（4）some crucial stems are removed for strange reason of overlapping， solved by first filter out the stems then remove the overlap
+
+############################################################
+
+14 （3）acceptable error, (4) Improve 'pick_best_candidate' algorithm to avoiding false pairing like 12-32 (95, 75) by adding a fallback if score_ji from current j is larger than the former. (5) acceptable error when score < 3
+
+15 （1）logic flaw between score <3, 3-11 and > 11. Each of 'if' should have an else with it（2）fixed，（5）Essentially the mask detection error when images are rotated, which causes the failure of pairing. So here I abruptly increase the pairing error tolerance to 33 when score > 3. And change the fallback from min score_ij to min score_ij + score_ji, (6) rhombus problem （crossroad problem), solved by Consistency Check
+
+#############################################################
+
+16 （3）in the densely overlapping area，with poor mask segmentations, stems can sometimes not correctly paired. This is mainly due to the error from one or two segmentations. So it is solved by adding a final cluster merging: each final cluster as one, PCA, score counting and pairing till nothing changes.（4）two stems segmentations are removed for 94 and 97, it is crucial for bridging. So I adjust the filter threshold to 90 from 100 (well, I did not change anything but with threshold 100, it also works). Now the pixel filter threshold is 90
+
+17 （1）solved，（2）solved，（3）！！！Here I change the 'score compute' to (inter - c2) + (l2[0]+l2[1])/2, and overlapping merge criteria to (e_1 + e_2 + e_3) < 25 degree (now is e_1 < 12 degree and score < 10)
+
+18（1）it exposes one flaw of this algorithm, the middle stem might be skipped by its up/lower partner if it is a rhombus with relative high score. Solution: I add an 'intermediate check' to connect i, k, j together, as long as score_ki and score_kj < 10 (But to be noticed, in the case of i, k, l, j or even more, this method is no longer valid)（3）the same issue as (1), but here requires larger threshold 20，（4)solved ， （6）I change overlapping merge criteria to e_1 < 10 degree and score < 10 (here the score is similar to the computed score)
+
+############################################################
+
+19（2）solved，（3）solved，（5）solved，（6）I first decrease the pair_thres from 30 to 25 more strictly. Then abruptly decrease the in_section threshold to 13.5 degree. And a 'overlapping merge' algorithm is added.
+
+20（1）！！！Here I change the 'score compute' to (inter - c2) - (l2[0]+l2[1])/4 which seems balance the case of broken line and cross line ，（2）solved，（3），（4）solved，（6）solved
+
+21（1）solved，（4）solved
+
+22（3）fixed by increasing in_section threshold to 15 degree, we need that because when setting rhombus stem as base, its wrong orientation requires larger tolerance for right candidates. 
+
+23（1）solved，（2）add restriction on final overlapping merge: score i and j shall both < 10 ，（3）solved，（4）solved (2,3,4 are same problem)，（5）solved，（6）solved (1,5,6 are same problem)
+
+24（1）!!!!!!!! A new pairing strategy is implemented to replace the new one: choose min(score_ij + score_ji) instead of considering mainly score_ij，the computation time also decreased by 2-3 times!!!!!!! （2）solved，（3）solved，（4）solved，（5）solved
+
+25（1）solved (by 24.1)，（2）solved，（3）solved
+
+26（1）solved，（2）solved，（3）solved
+
+27（1）solved，（2）solved，（3）solved，(4)solved，（5）solved，（6），solved by adding a tolerance of violation to in_sector
+
+29（1）solved
+
+30（1），（2），（3）all solved except the detection failure of long horizontal stem.
+
+31（1）solved，（2）not solved: PCA error of short stem，（3）solved，(4)solved，（5）solved，(6)solved by increase overlapping merge ang thres to 15 degree (also change the score thres to 15 after add the len from 33.1)
+
+32（4）solved，（5）solved，（6）wrong mask detection
+
+############################################################
+
+33（1）terrible issue from overlapping merge algorithm when two crossing stem and intersection is close to stem center, now the radius is inter-c_2+len_2/2 ，（2）solved，（3）!!!!! According to 24.1, the combination of 10+1 is prior to 5+7. But the large difference represents the improper pairing. So I update the criteria to min(score_ij + score_ji + abs (score_ij - score_ji)). Moreover, this method always return a best candidate even they are not reasonably paired (might be no other candidate). So I force it only returns the best candidate when abs(score_ij - score_ji))<33, otherwise return None
+
+34（1），（2），（3）all solved leaving the mask detection failure
+
+35（1）solved，（2）solved，（3）two stems both with wrong orientation paired each other, can not solve
+
+36（1）solved by increasing cross thres from 20 to 21，another stem due to mask detection flaw remains （2）solved，(3)solved，（4）solved，（5），（6）solved by increasing cross thres from 21 to 22.5 and add a one more restriction to the candidate-picking: score_ij_best < 50
+
+37（1）solved，（2）solved，（3）unsolved: mask detection error
+
+38（1）unsolved due to poor mask detection，（2）solved，（3）same as 1，（4）solved，（5）solved，（6）solved
+
+39（1）solved，（2）solved，（3）solved，（4）solved by increasing the pick candidate thres from 33 to 35 and adding a loop: traverse the sum_score to find one within the threshold in case that other potential candidates would be neglected，（5）solved，（6）solved
+
+40（1）solved，（2）unsolved due to poor mask detection ,but I identify another issue: to both consider the low score and balance，min(score_ij + score_ji + abs (score_ij - score_ji)) is improper because it is equal to 2*max(score_ij, score_ji). So I introduce the Hermony Mean, now it is min(score_ij + score_ji - alpha* score_ij * score_ji/ (score_ij + score_ji)) （3）same as 2，（4）same as 2，（5）solved，（6）solved
+
+41（1）solved by increasing score_ij_best thres from 50 to 55，（2）same as 1，（3）same as 1, unsolved because requires larger thres (score_ij_best to 70 and score diff to 40)
+
+42（1）unsolved, mask detection error，(2)same as 1，(3)solved
+
+43（1），（2），（3）all solved
+
+44（1）unsolved because requires larger pick candidate thres (score_ij_best to 60 and score diff to 45)，（2）solved，（3）solved，（4）solved by switch back to min(score_ij + score_ji + abs (score_ij - score_ji)) ，（5）solved，（6）solved
+
+45（1）brutally increase the overlapping merge threshold angle_error from 15 to 20 and score from 15 to 32 to accomplish more missing pairs ，（2）unsolved, can not increase the threshold anymore，（3）solved crossing overlapping merge by adding a i,j,k merge conflict check（5）solved，（6）solved
+
+46（1）unsolved error due to mask problem，（2）solved，（4）solved，（5）solved，（6）solved
+
+47（1），（2），（3），（4），（5），（6）all solved
+
+48（2）solved，（3）solved，（6）unsolved, one mismatch but not a big problem 
+
+50（1），（2），（3）all solved
