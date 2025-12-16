@@ -8,7 +8,11 @@ Thus, automating this process would significantly reduce manual labor. The criti
 This solution is divided into three methods: 
 * **Preprocessing**:  `Roboflow` is an online website helps with various data processing such as Annotation and Data Augmentation.
 * **Instance Segmentation**: A `Mask-RCNN` neural network is trained to detect all stem segments.
-* **Post Processing**: (1) The First Post-Processing algorithm `Stem Pairing` is designed to match all stems from each flower. (2) The Second Post-Processing algorithm `Top Selection` is designed to match all stems from each flower.
+* **Post Processing**: (1) The First Post-Processing algorithm `Stem Pairing` is designed to match all stems from each flower. (2) The Second Post-Processing algorithm `Top Selection` is designed to select the flower on the top of the batch based on the geometry oclusion information. (3) The Third Post-Processing algorithm `Pick Point` is designed to generate one picking point given the top flower masks.
 ## Chapter 2 - Preprocessing
 ## Chapter 3 - Instance Segmentation
 ## Chapter 4 - Post Processing
+### Algorithm 1 - Stem Pairing
+A mathematic method is implemented to cluster all stem segments detected by Mask-RCNN.
+
+### Algorithm 2 - Top Selection
