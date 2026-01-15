@@ -71,9 +71,9 @@ YOLO (You Only Look Once) is a prominent one-stage object detection framework th
 The key characteristics of the YOLO-Seg framework include:
 
 * **One-Stage Pipeline**: Enables end-to-end training and inference, significantly reducing computational latency.
-* **HGrid-Based Inference**: Relies on a predefined spatial grid for object localization and mask generation, ensuring architectural
+* **Grid-Based Inference**: Relies on a predefined spatial grid for object localization and mask generation, ensuring architectural
 * **Real-Time Performance**: Specifically optimized for high-speed processing, making it ideal for time-critical industrial deployments.
-* **FSegmentation Fidelity**: While highly efficient, it produces relatively coarser masks compared to two-stage architectures, particularly in high-overlap scenarios.
+* **Segmentation Fidelity**: While highly efficient, it produces relatively coarser masks compared to two-stage architectures, particularly in high-overlap scenarios.
 
 <p align="center"> 
 <img src="img/YOLO.png" width="60%"><br>
@@ -128,7 +128,7 @@ To optimize computational efficiency, each stem segment serves as a reference ba
 
 * **Assumption 2**: The permissible `orientation error` ($ang$) is dynamically constrained by the `positional error` ($ang_{pos}$) relative to the base stem. These metrics are defined as follows:
 
-  (1) $ang_{pos}$ (Positional Error):** The angular deviation of the candidate segment's centroid from the longitudinal axis (the infinite extension line) of the base stem.
+  (1) $ang_{pos}$ (Positional Error): The angular deviation of the candidate segment's centroid from the longitudinal axis (the infinite extension line) of the base stem.
 
   (2) $ang$ (Orientation Error): The angular difference between the directional vectors of the candidate and the base stem.
 
@@ -159,9 +159,11 @@ To optimize computational efficiency, each stem segment serves as a reference ba
 
 #### **Phase 2. Compute the candidates' score**
 To quantify the geometric compatibility between the base stem and its candidates, a scoring function is defined to integrate both positional and orientation deviations:
+
 $$
 \mathrm{Score} = r \cdot \frac{\mathrm{ang}}{\mathrm{length\_score}}
 $$
+
 In this formulation, `ang` represents the orientation error and `r` is the distance from the candidate's centroid to the intersection point of the two stem vectors. Geometrically, the `Score` corresponds to the arc length visualized in green in figure below. A lower score signifies a more coherent alignment, indicating that the candidate is a strong match for the base stem. 
 
 <p align="center"> 
